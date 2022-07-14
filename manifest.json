@@ -6,13 +6,13 @@
         "src": "/images/ajoin_x192.png",
         "type": "image/png",
         "sizes": "192x192",
-        "pupose": "any maskable"
+        "pupose": "maskable"
       },
       {
         "src": "/images/ajoin_x512.png",
         "type": "image/png",
         "sizes": "512x512",
-        "pupose": "any maskable"
+        "pupose": "maskable"
       }
     ],
     "start_url": "/index.html",
