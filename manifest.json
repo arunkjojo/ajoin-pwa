@@ -5,12 +5,14 @@
       {
         "src": "/images/ajoin_x192.png",
         "type": "image/png",
-        "sizes": "192x192"
+        "sizes": "192x192",
+        "pupose": "any maskable"
       },
       {
         "src": "/images/ajoin_x512.png",
         "type": "image/png",
-        "sizes": "512x512"
+        "sizes": "512x512",
+        "pupose": "any maskable"
       }
     ],
     "start_url": "/index.html",
